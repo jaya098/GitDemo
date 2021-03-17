@@ -21,10 +21,10 @@ class Employee:
 
 
 emp_1 = Employee('Aarthi', 'Sivasankar', 34323)
-emp_2 = Employee('Jaya', 'SP', 989898)
+emp_2 = Employee('Jaya', 'SP', 98989)
 
 h = '111'
 # print(f"value of h :{h}")
 print(emp_1)
 print(emp_2)
-print("***NEW LINE ADDED***")
+print("|***NEW LINE ADDED***)")
