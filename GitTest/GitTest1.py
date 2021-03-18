@@ -21,9 +21,8 @@ class Employee:
 
 
 emp_1 = Employee('Aarthi', 'Sivasankar', 34323)
-h = '1'
-print(f"Git Demo: {h}")
 print(repr(emp_1))
 print(str(emp_1))
 print("Now printing just the obj**")
 print(emp_1)
+
