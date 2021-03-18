@@ -21,8 +21,15 @@ class Employee:
 
 
 emp_1 = Employee('Aarthi', 'Sivasankar', 34323)
+emp_2 = Employee('Jaya', 'SP', 67767)
 print(repr(emp_1))
 print(str(emp_1))
 print("Now printing just the obj**")
 print(emp_1)
+print("-----------------")
+print(repr(emp_2))
+print(str(emp_2))
+print("Now printing just the obj** emp2")
+print(emp_2)
+
 
